@@ -39,7 +39,7 @@
 body {
 	margin: 0;
 	
-	font: 12px/1.7em 'Open Sans', arial, sans-serif;
+	font: 13px/1.7em 'Open Sans', arial, sans-serif;
 	
 	background: #DDD url(../img/bg.png) repeat 0 0;
 }
@@ -47,7 +47,26 @@ body {
 p {	
 	margin-bottom: 2em;
 	
-	font: 12px/1.7em 'Open Sans', arial, sans-serif;
+	font: 13px/1.7em 'Open Sans', arial, sans-serif;
+}
+
+#content p, #content li {
+    font-size: 12pt;
+    line-height: 2em;
+}
+
+.imagebox img {
+    background-color: white;
+    padding: 5px;
+    border: 1px solid gray;
+}
+
+.imagebox .desc {
+    text-align: center;
+}
+
+li {
+    line-height: 1.5em;
 }
 
 h1 {
