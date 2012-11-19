@@ -55,12 +55,6 @@ p {
     line-height: 2em;
 }
 
-.imagebox img {
-    background-color: white;
-    padding: 5px;
-    border: 1px solid gray;
-}
-
 .imagebox .desc {
     text-align: center;
 }
