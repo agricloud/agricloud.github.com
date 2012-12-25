@@ -4,13 +4,13 @@
             <div class="carousel-inner">
 
                 <div class="active item">
-                    <img src="/assets/images/masthead-3.png.jpg" alt="" />
+                    <img src="/assets/images/masthead-2.png.jpg" alt="" />
                     <div class="masthead-details">
                         <h3>12/23已完成本年度最後一批採收, 精品雲端柳丁已全數售完, 雞蛋、吉利、發財丁數量有限，請在12/26前訂購，感謝各位的支持，祝大家新年愉快，雲端農場將在新的一年擴大為大家的服務!</h3>
                     </div> 
                 </div>             
                 <div class="item">
-                    <img src="/assets/images/masthead.png.jpg" alt="" />
+                    <img src="/assets/images/masthead-3.png.jpg" alt="" />
                     <div class="masthead-details">
                         <h2>許先生的柳丁</h2>
                         <p>種植柳丁已將近 20 年的果農許順利先生，對於每顆柳丁樹細心、用心呵護，就像是自己的小孩一般，因此許先生親手培育的柳丁，總是特別甜美又多汁。</p>
@@ -18,7 +18,7 @@
                     </div> 
                 </div> 
                 <div class="item">
-                    <img src="/assets/images/masthead-2.png.jpg" alt="" />
+                    <img src="/assets/images/masthead-4.png.jpg" alt="" />
                     <div class="masthead-details">
                         <h2>甜美又健康</h2>
                         <p>在山明水秀、空氣清新的斗六崇光里，為柳丁提供極佳的生長環境，許家柳丁果園有兩個區域，分別種植 15 年極 30 年果樹，不論是口感或甜度，都是一級棒！</p>
@@ -27,70 +27,46 @@
                 </div> 
 
                 <div class="item">
-                    <img src="/assets/images/masthead-4.png.jpg" alt="" />
+                    <img src="/assets/images/masthead-5.png.jpg" alt="" />
                     <div class="masthead-details">
                         <h3>12/23已完成本年度最後一批採收, 精品雲端柳丁已全數售完, 雞蛋、吉利、發財丁數量有限，請在12/26前訂購，感謝各位的支持，祝大家新年愉快，雲端農場將在新的一年擴大為大家的服務!</h3>
-                    </div> 
-                </div> 
-                <div class="item">
-                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-5.png.jpg" alt="" />
-                    <div class="masthead-details">
-                        <h2>許先生的柳丁</h2>
-                        <p>種植柳丁已將近 20 年的果農許順利先生，對於每顆柳丁樹細心、用心呵護，就像是自己的小孩一般，因此許先生親手培育的柳丁，總是特別甜美又多汁。</p>
-                        <p>透過雲端農場的果園 e 化團隊，柳丁的生產過程更加安全透明，每箱柳丁都提供生產履歷證明，不但讓消費者買到價格合理、健康安全的柳丁，果農也得到合理的收入。</p>
-                    </div> 
-                </div> 
-                <div class="item">
-                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-14.png.jpg" alt="" />
-                    <div class="masthead-details">
-                        <h2>甜美又健康</h2>
-                        <p>在山明水秀、空氣清新的斗六崇光里，為柳丁提供極佳的生長環境，許家柳丁果園有兩個區域，分別種植 15 年極 30 年果樹，不論是口感或甜度，都是一級棒！</p>
-                        <p>柳丁的用藥與施肥需要依其生長現況，決定最佳的噴灑時間，才能讓消費者吃到健康、無殘留的新鮮柳丁，雲端農場利用資訊科技為消費者把關。</p>
                     </div> 
                 </div> 
                 <div class="item">
                     <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-6.png.jpg" alt="" />
                     <div class="masthead-details">
-                        <h3>12/23已完成本年度最後一批採收, 精品雲端柳丁已全數售完, 雞蛋、吉利、發財丁數量有限，請在12/26前訂購，感謝各位的支持，祝大家新年愉快，雲端農場將在新的一年擴大為大家的服務!</h3>
-                    </div> 
-                </div> 
-
-                <div class="item">
-                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-9.png.jpg" alt="" />
-                    <div class="masthead-details">
                         <h2>許先生的柳丁</h2>
                         <p>種植柳丁已將近 20 年的果農許順利先生，對於每顆柳丁樹細心、用心呵護，就像是自己的小孩一般，因此許先生親手培育的柳丁，總是特別甜美又多汁。</p>
                         <p>透過雲端農場的果園 e 化團隊，柳丁的生產過程更加安全透明，每箱柳丁都提供生產履歷證明，不但讓消費者買到價格合理、健康安全的柳丁，果農也得到合理的收入。</p>
                     </div> 
                 </div> 
-
-
-                <div class="item">
-                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-8.png.jpg" alt="" />
-                    <div class="masthead-details">
-                        <h2>甜美又健康</h2>
-                        <p>在山明水秀、空氣清新的斗六崇光里，為柳丁提供極佳的生長環境，許家柳丁果園有兩個區域，分別種植 15 年極 30 年果樹，不論是口感或甜度，都是一級棒！</p>
-                        <p>柳丁的用藥與施肥需要依其生長現況，決定最佳的噴灑時間，才能讓消費者吃到健康、無殘留的新鮮柳丁，雲端農場利用資訊科技為消費者把關。</p>
-                    </div> 
-                </div> 
-
-                <div class="item">
-                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-11.png.jpg" alt="" />
-                    <div class="masthead-details">
-                        <h3>12/23已完成本年度最後一批採收, 精品雲端柳丁已全數售完, 雞蛋、吉利、發財丁數量有限，請在12/26前訂購，感謝各位的支持，祝大家新年愉快，雲端農場將在新的一年擴大為大家的服務!</h3>
-                    </div> 
-                </div> 
-
                 <div class="item">
                     <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-7.png.jpg" alt="" />
                     <div class="masthead-details">
+                        <h2>甜美又健康</h2>
+                        <p>在山明水秀、空氣清新的斗六崇光里，為柳丁提供極佳的生長環境，許家柳丁果園有兩個區域，分別種植 15 年極 30 年果樹，不論是口感或甜度，都是一級棒！</p>
+                        <p>柳丁的用藥與施肥需要依其生長現況，決定最佳的噴灑時間，才能讓消費者吃到健康、無殘留的新鮮柳丁，雲端農場利用資訊科技為消費者把關。</p>
+                    </div> 
+                </div> 
+                <div class="item">
+                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-2.png.jpg" alt="" />
+                    <div class="masthead-details">
+                        <h3>12/23已完成本年度最後一批採收, 精品雲端柳丁已全數售完, 雞蛋、吉利、發財丁數量有限，請在12/26前訂購，感謝各位的支持，祝大家新年愉快，雲端農場將在新的一年擴大為大家的服務!</h3>
+                    </div> 
+                </div> 
+
+                <div class="item">
+                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-3.png.jpg" alt="" />
+                    <div class="masthead-details">
                         <h2>許先生的柳丁</h2>
                         <p>種植柳丁已將近 20 年的果農許順利先生，對於每顆柳丁樹細心、用心呵護，就像是自己的小孩一般，因此許先生親手培育的柳丁，總是特別甜美又多汁。</p>
                         <p>透過雲端農場的果園 e 化團隊，柳丁的生產過程更加安全透明，每箱柳丁都提供生產履歷證明，不但讓消費者買到價格合理、健康安全的柳丁，果農也得到合理的收入。</p>
                     </div> 
                 </div> 
+
+
                 <div class="item">
-                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-10.png.jpg" alt="" />
+                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-4.png.jpg" alt="" />
                     <div class="masthead-details">
                         <h2>甜美又健康</h2>
                         <p>在山明水秀、空氣清新的斗六崇光里，為柳丁提供極佳的生長環境，許家柳丁果園有兩個區域，分別種植 15 年極 30 年果樹，不論是口感或甜度，都是一級棒！</p>
@@ -99,13 +75,37 @@
                 </div> 
 
                 <div class="item">
-                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-12.png.jpg" alt="" />
+                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-5.png.jpg" alt="" />
+                    <div class="masthead-details">
+                        <h3>12/23已完成本年度最後一批採收, 精品雲端柳丁已全數售完, 雞蛋、吉利、發財丁數量有限，請在12/26前訂購，感謝各位的支持，祝大家新年愉快，雲端農場將在新的一年擴大為大家的服務!</h3>
+                    </div> 
+                </div> 
+
+                <div class="item">
+                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-6.png.jpg" alt="" />
+                    <div class="masthead-details">
+                        <h2>許先生的柳丁</h2>
+                        <p>種植柳丁已將近 20 年的果農許順利先生，對於每顆柳丁樹細心、用心呵護，就像是自己的小孩一般，因此許先生親手培育的柳丁，總是特別甜美又多汁。</p>
+                        <p>透過雲端農場的果園 e 化團隊，柳丁的生產過程更加安全透明，每箱柳丁都提供生產履歷證明，不但讓消費者買到價格合理、健康安全的柳丁，果農也得到合理的收入。</p>
+                    </div> 
+                </div> 
+                <div class="item">
+                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-7.png.jpg" alt="" />
+                    <div class="masthead-details">
+                        <h2>甜美又健康</h2>
+                        <p>在山明水秀、空氣清新的斗六崇光里，為柳丁提供極佳的生長環境，許家柳丁果園有兩個區域，分別種植 15 年極 30 年果樹，不論是口感或甜度，都是一級棒！</p>
+                        <p>柳丁的用藥與施肥需要依其生長現況，決定最佳的噴灑時間，才能讓消費者吃到健康、無殘留的新鮮柳丁，雲端農場利用資訊科技為消費者把關。</p>
+                    </div> 
+                </div> 
+
+                <div class="item">
+                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-2.png.jpg" alt="" />
                     <div class="masthead-details">
                         <h3>12/23已完成本年度最後一批採收, 精品雲端柳丁已全數售完, 雞蛋、吉利、發財丁數量有限，請在12/26前訂購，感謝各位的支持，祝大家新年愉快，雲端農場將在新的一年擴大為大家的服務!</h3>
                     </div> 
                 </div> 
                 <div class="item">
-                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-13.png.jpg" alt="" />
+                    <img class="lazy" src="/assets/images/masthead-load.png.jpg" data-original="/assets/images/masthead-3.png.jpg" alt="" />
                     <div class="masthead-details">
                         <h2>許先生的柳丁</h2>
                         <p>種植柳丁已將近 20 年的果農許順利先生，對於每顆柳丁樹細心、用心呵護，就像是自己的小孩一般，因此許先生親手培育的柳丁，總是特別甜美又多汁。</p>
